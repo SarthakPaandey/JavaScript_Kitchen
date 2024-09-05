@@ -1,1 +1,1 @@
-Java Script general concepts for my practice.
+Javascript general concepts for my practice.
