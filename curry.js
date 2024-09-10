@@ -15,4 +15,4 @@ var addall=function(){
 //     return a;
 // }
 var add1=curry(addall,2);
-console.log(add1(2,3,4,5))
+console.log(add1(2,3,4,5));
