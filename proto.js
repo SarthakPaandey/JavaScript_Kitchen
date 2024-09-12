@@ -1,5 +1,3 @@
-
-
     var dog = {
       breed: "Labradodr",
       proto: {
